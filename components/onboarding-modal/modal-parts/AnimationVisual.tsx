@@ -9,7 +9,7 @@ interface ExpenseGraphProps {
   onAnimationComplete: () => void;
 }
 
-// just creating variants for everything bc im lazy
+// just creating variants for everything bc im lazy lol
 
 const messageContainerVariants = {
   hidden: { opacity: 1 },

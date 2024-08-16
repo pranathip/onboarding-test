@@ -1,3 +1,5 @@
+"use client";
+
 import ArrowRightIcon from "./modal-parts/ArrowRightIcon";
 import AnimationVisual from "./modal-parts/AnimationVisual";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
